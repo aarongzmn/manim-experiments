@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/aaron/Documents/Dev - Work/Repos/aarongzmn/manim-experiments/media/videos/scene/480p15/partial_movie_files/PointMovingOnShapes/3163782288_1908004001_1559485915.mp4'
+file 'file:C:/Users/aaron/Documents/Dev - Work/Repos/aarongzmn/manim-experiments/media/videos/scene/480p15/partial_movie_files/PointMovingOnShapes/2201830969_791709962_3826825815.mp4'
+file 'file:C:/Users/aaron/Documents/Dev - Work/Repos/aarongzmn/manim-experiments/media/videos/scene/480p15/partial_movie_files/PointMovingOnShapes/2201830969_3683205438_625447078.mp4'
+file 'file:C:/Users/aaron/Documents/Dev - Work/Repos/aarongzmn/manim-experiments/media/videos/scene/480p15/partial_movie_files/PointMovingOnShapes/2201830969_1068378233_3826825815.mp4'
+file 'file:C:/Users/aaron/Documents/Dev - Work/Repos/aarongzmn/manim-experiments/media/videos/scene/480p15/partial_movie_files/PointMovingOnShapes/2201830969_3638504700_958732918.mp4'
